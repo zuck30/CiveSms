@@ -3,6 +3,11 @@
 CiveSms is a Python script for sending anonymous SMS messages using Twilio.
 
 ## Requirements
+You need to install twilio
+
+```
+pip install twilio
+```
 
 To run the script, you need to have Python installed on your system. Additionally, you'll need to use the `requests` module, which can be installed via `pip`:
 
