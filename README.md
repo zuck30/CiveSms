@@ -1,4 +1,4 @@
-# CiveSms
+## CiveSms
 
 CiveSms is a Python script for sending anonymous SMS messages using Twilio.
 
