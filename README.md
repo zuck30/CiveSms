@@ -37,7 +37,3 @@ python3 CiveSms.py
 ## Warning
 
 Be careful not to abuse this service for sending spam or unwanted messages. Make sure to respect all local laws and regulations regarding SMS message sending.
-
-## Credits
-
-This script was developed by Sheldon.
